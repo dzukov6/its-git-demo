@@ -1,4 +1,10 @@
+<<<<<<< HEAD
+=======
+echo "*.log\n*.tmp" > .gitignore
+Develop branch versioon
+>>>>>>> develop
 # Git Demo Project
+See on main + develop versiooni ühine lõppvariant
 
 Lihtne projekt Git ja GitHub oskuste demonstreerimiseks.
 
@@ -25,3 +31,9 @@ See projekt näitab:
 ## Kasutamine
 ```bash
 ./system_info.sh
+<<<<<<< HEAD
+=======
+## Release v1.1.0
+- Täiendatud dokumentatsioon
+- Uuendatud README
+>>>>>>> develop
